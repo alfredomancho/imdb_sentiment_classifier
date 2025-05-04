@@ -1,11 +1,12 @@
 
 __pycache__/
-*.pyc
-*.h5
-*.keras
 ipynb_checkpoints/
 backup/
 orig/
-*.ipynb
 PNGs/
 venv/
+*.pyc
+*.h5
+*.keras
+*.ipynb
+about.txt
